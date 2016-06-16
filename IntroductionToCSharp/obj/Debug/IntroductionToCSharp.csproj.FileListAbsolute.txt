@@ -1,0 +1,12 @@
+C:\Users\mohaazha.AUTH\documents\visual studio 2013\Projects\RepositoryPattern\IntroductionToCSharp\bin\Debug\IntroductionToCSharp.exe.config
+C:\Users\mohaazha.AUTH\documents\visual studio 2013\Projects\RepositoryPattern\IntroductionToCSharp\bin\Debug\IntroductionToCSharp.exe
+C:\Users\mohaazha.AUTH\documents\visual studio 2013\Projects\RepositoryPattern\IntroductionToCSharp\bin\Debug\IntroductionToCSharp.pdb
+C:\Users\mohaazha.AUTH\documents\visual studio 2013\Projects\RepositoryPattern\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.exe
+C:\Users\mohaazha.AUTH\documents\visual studio 2013\Projects\RepositoryPattern\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.pdb
+C:\Users\mohaazha.AUTH\documents\visual studio 2013\Projects\RepositoryPattern\IntroductionToCSharp\bin\Debug\EntityFramework.dll
+C:\Users\mohaazha.AUTH\documents\visual studio 2013\Projects\RepositoryPattern\IntroductionToCSharp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mohaazha.AUTH\documents\visual studio 2013\Projects\RepositoryPattern\IntroductionToCSharp\bin\Debug\EntityFramework.xml
+C:\Users\mohaazha.AUTH\documents\visual studio 2013\Projects\RepositoryPattern\IntroductionToCSharp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mohaazha.AUTH\documents\visual studio 2013\Projects\RepositoryPattern\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.csprojResolveAssemblyReference.cache
+C:\Users\mohaazha.AUTH\documents\visual studio 2013\Projects\RepositoryPattern\IntroductionToCSharp\bin\Debug\MathComponenetProject.dll
+C:\Users\mohaazha.AUTH\documents\visual studio 2013\Projects\RepositoryPattern\IntroductionToCSharp\bin\Debug\MathComponenetProject.pdb
